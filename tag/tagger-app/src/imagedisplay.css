@@ -1,0 +1,21 @@
+.img-container {
+	text-align: center;
+	border-style: solid;
+	border-width: 1px;
+	padding: 0rem;
+	margin: 2rem;
+	background: white;
+	border-color:rgb(200,200,200);
+}
+
+.hint {
+	color: rgba(100,100,100,0.5);
+}
+
+.navigator {
+	border-top-style: solid;
+	border-width: 1px;
+	border-color: rgb(200,200,200);
+	background: rgb(250,250,250);
+	padding: 1rem;
+}
