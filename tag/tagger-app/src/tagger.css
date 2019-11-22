@@ -1,0 +1,62 @@
+.tagger {
+	border-right-style: solid;
+	border-left-style: solid;
+	border-color: rgb(200,200,200);
+}
+
+.add_on_right {
+	color: rgb(100,100,200);
+	float: right;
+	font-size: 1.5rem;
+	-webkit-text-stroke-width: 1px;
+}
+
+.category_name {
+	padding: 0.5rem;
+	color: rgb(200,200,200);
+}
+
+.tag_collection {
+	border-bottom-style: solid;
+	border-width: 1px;
+	padding: 1rem;
+	margin: 0rem;
+}
+
+.tag_collection_header {
+	padding: 0.5rem 0.5rem 0.5rem 1.4rem;
+	border-bottom-style: solid;
+	border-width: 1px;
+	border-color: rgb(200,200,200);
+	color: rgb(200,200,200);
+	margin: 0rem;
+	background: rgba(200,200,200,0);
+}
+
+.load_file_div {
+	float: right;
+	color: rgb(100,100,200);
+	cursor: pointer;
+}
+
+.tag_collection_last {
+	border-width: 1px;
+	padding: 0.5rem 0.5rem 0.5rem 1rem;
+	margin: 0rem;
+	background: rgba(200,200,200,0.1);
+}
+
+.derived_categories{
+	font-size: 0.8rem;
+	padding-left: 0.5rem;
+	color: rgb(100,100,100);
+}
+.options {
+	float: left;
+}
+
+a {
+	color: rgb(100,100,200);
+	cursor: pointer;
+	text-decoration: none;
+}
