@@ -1,0 +1,35 @@
+input {
+	border-style: solid;
+	border-width: 1px;
+	outline: none;
+	padding: 6px 6px 6px 8px;
+	width: 80%;
+	border-color: rgba(100,100,200,0);
+	color: rgb(100,100,200);
+	font-size: 0.8rem;
+	margin-top: 0.2rem;
+	cursor: pointer;
+}
+
+input:hover {
+	color: rgb(150,150,250);
+}
+
+input:focus {
+	border-color: rgba(100,100,200,1);
+	cursor: text;
+}
+
+.info {
+	font-size: 0.8rem;
+	color: rgb(150,150,150);
+	padding-left: 8px;
+}
+
+.visible {
+	opacity: 1;
+}
+
+.invisible {
+	opacity: 0;
+}
